@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucas\\source\\repos\\Exercicio her + poli\\Exercicio her + poli\\Exercicio her + poli.csproj": {}
+    "C:\\Users\\lucas.silva\\Desktop\\Projetos\\her-plus-poli\\Exercicio her + poli\\Exercicio her + poli.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucas\\source\\repos\\Exercicio her + poli\\Exercicio her + poli\\Exercicio her + poli.csproj": {
+    "C:\\Users\\lucas.silva\\Desktop\\Projetos\\her-plus-poli\\Exercicio her + poli\\Exercicio her + poli.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucas\\source\\repos\\Exercicio her + poli\\Exercicio her + poli\\Exercicio her + poli.csproj",
+        "projectUniqueName": "C:\\Users\\lucas.silva\\Desktop\\Projetos\\her-plus-poli\\Exercicio her + poli\\Exercicio her + poli.csproj",
         "projectName": "Exercicio her + poli",
-        "projectPath": "C:\\Users\\Lucas\\source\\repos\\Exercicio her + poli\\Exercicio her + poli\\Exercicio her + poli.csproj",
-        "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucas\\source\\repos\\Exercicio her + poli\\Exercicio her + poli\\obj\\",
+        "projectPath": "C:\\Users\\lucas.silva\\Desktop\\Projetos\\her-plus-poli\\Exercicio her + poli\\Exercicio her + poli.csproj",
+        "packagesPath": "C:\\Users\\lucas.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas.silva\\Desktop\\Projetos\\her-plus-poli\\Exercicio her + poli\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lucas.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

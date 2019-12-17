@@ -9,3 +9,14 @@ C:\Users\Lucas\source\repos\Exercicio her + poli\Exercicio her + poli\obj\Debug\
 C:\Users\Lucas\source\repos\Exercicio her + poli\Exercicio her + poli\obj\Debug\netcoreapp3.0\Exercicio her + poli.AssemblyInfo.cs
 C:\Users\Lucas\source\repos\Exercicio her + poli\Exercicio her + poli\obj\Debug\netcoreapp3.0\Exercicio her + poli.dll
 C:\Users\Lucas\source\repos\Exercicio her + poli\Exercicio her + poli\obj\Debug\netcoreapp3.0\Exercicio her + poli.pdb
+C:\Users\lucas.silva\Desktop\Projetos\her-plus-poli\Exercicio her + poli\bin\Debug\netcoreapp3.0\Exercicio her + poli.exe
+C:\Users\lucas.silva\Desktop\Projetos\her-plus-poli\Exercicio her + poli\bin\Debug\netcoreapp3.0\Exercicio her + poli.deps.json
+C:\Users\lucas.silva\Desktop\Projetos\her-plus-poli\Exercicio her + poli\bin\Debug\netcoreapp3.0\Exercicio her + poli.runtimeconfig.json
+C:\Users\lucas.silva\Desktop\Projetos\her-plus-poli\Exercicio her + poli\bin\Debug\netcoreapp3.0\Exercicio her + poli.runtimeconfig.dev.json
+C:\Users\lucas.silva\Desktop\Projetos\her-plus-poli\Exercicio her + poli\bin\Debug\netcoreapp3.0\Exercicio her + poli.dll
+C:\Users\lucas.silva\Desktop\Projetos\her-plus-poli\Exercicio her + poli\bin\Debug\netcoreapp3.0\Exercicio her + poli.pdb
+C:\Users\lucas.silva\Desktop\Projetos\her-plus-poli\Exercicio her + poli\obj\Debug\netcoreapp3.0\Exercicio her + poli.csprojAssemblyReference.cache
+C:\Users\lucas.silva\Desktop\Projetos\her-plus-poli\Exercicio her + poli\obj\Debug\netcoreapp3.0\Exercicio her + poli.AssemblyInfoInputs.cache
+C:\Users\lucas.silva\Desktop\Projetos\her-plus-poli\Exercicio her + poli\obj\Debug\netcoreapp3.0\Exercicio her + poli.AssemblyInfo.cs
+C:\Users\lucas.silva\Desktop\Projetos\her-plus-poli\Exercicio her + poli\obj\Debug\netcoreapp3.0\Exercicio her + poli.dll
+C:\Users\lucas.silva\Desktop\Projetos\her-plus-poli\Exercicio her + poli\obj\Debug\netcoreapp3.0\Exercicio her + poli.pdb

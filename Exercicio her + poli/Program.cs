@@ -17,31 +17,34 @@ namespace Exercicio_her___poli
             {
                 Console.WriteLine("Product #{0} data: ",i);
                 Console.Write("Common, used or imported (c/u/i)? ");
-                char type = char.Parse(Console.ReadLine());
+                string type = Console.ReadLine();
+                while (type != "c" && type != "u" && type != "i")
+                {
+                    Console.WriteLine("Faz de novo, Faz direito");
+                    Console.WriteLine("Product #{0} data: ", i);
+                    Console.Write("Common, used or imported (c/u/i)? ");
+                    type = Console.ReadLine();
+                }
                 Console.Write("Name: ");
                 string name = Console.ReadLine();
                 Console.Write("Price: ");
                 double price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-                if (type == 'c')
+                if (type == "c")
                 {
                     list.Add(new Product(name, price));
                 }
-                else if(type == 'u')
+                else if(type == "u")
                 {
                     Console.Write("Manufacture date (DD/MM/YYYY): ");
                     DateTime date = DateTime.Parse(Console.ReadLine());
                     list.Add(new UsedProduct(name, price, date));
                 }
-                else if(type == 'i')
+                else if(type == "i")
                 {
                     Console.Write("Customs fee: ");
                     double tax = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                     list.Add(new ImportedProduct(name, price, tax));
-                }
-                else
-                {
-                    Console.WriteLine("Código errado");
                 }
             }
 
