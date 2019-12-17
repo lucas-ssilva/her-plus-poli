@@ -17,7 +17,7 @@ namespace Exercicio_her___poli.Entities
 
         public override string PriceTag()
         {
-            return Name + "(Used) $ " + Price.ToString("F2") + "(Manufacture date: " + ManufacturedDate + ") ";
+            return Name + "(Used) $ " + Price.ToString("F2") + "(Manufacture date: " + ManufacturedDate.ToString("dd/MM/yyyy") + ") ";
         }
     }
 }
